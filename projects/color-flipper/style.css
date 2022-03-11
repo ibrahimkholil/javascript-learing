@@ -1,0 +1,36 @@
+.navbar-light .navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    font-size: 18px;
+    color: #fff;
+    background-color: #615cf5;
+}
+.navbar-light .navbar-nav .nav-link.active{
+    background-color: green;
+    color: #fff;
+}
+.navbar-light .navbar-nav  .nav-item + .nav-item{
+    margin-left: 10px;
+}
+
+/* *****************
+container css
+ ***************/
+ .container{
+     min-height: calc(100vh - 63px);
+    
+ }
+ .container h2 {
+    background: #222;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-bottom: 2.5rem;
+}
+.content-section {
+   
+}
