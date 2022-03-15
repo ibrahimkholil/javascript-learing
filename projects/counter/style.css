@@ -1,0 +1,18 @@
+/* *****************
+container css
+ ***************/
+ .container{
+    min-height: calc(100vh - 63px);
+   
+}
+
+
+h1{
+    font-size: 4.5rem;
+    color: darkblue;
+}
+#counter_value{
+    font-size: 5rem;
+    font-weight: bold;
+    color: darkblue;
+}
